@@ -1,0 +1,9 @@
+model_dir: run/
+
+data:
+    train_features_file: data/questions/english.txt
+    train_labels_file: data/questions/cypher.txt
+    eval_features_file: data/questions/english.txt
+    eval_labels_file: data/questions/cypher.txt
+    source_words_vocabulary: data/questions/src-vocab.txt
+    target_words_vocabulary: data/questions/trg-vocab.txt

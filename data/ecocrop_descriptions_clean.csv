@@ -1,0 +1,1321 @@
+crop_id,category,habit,life_form,life_span,physiology,plant_attributes
+289,vegetables,erect,herb,annual,single stem,grown on large scale
+290,"vegetables, ornamentals/turf, medicinals & aromatic",erect,shrub,"annual, perennial",,grown on small scale
+318,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+354,materials,erect,tree,perennial,single stem,grown on small scale
+363,vegetables,erect,herb,"annual, biennial",single stem,grown on large scale
+364,"vegetables, medicinals & aromatic",erect,herb,biennial,,grown on large scale
+365,vegetables,erect,herb,"annual, perennial",,grown on large scale
+390,"cereals & pseudocereals, forage/pasture, vegetables",erect,herb,annual,,grown on small scale
+391,vegetables,erect,herb,annual,"single stem, multi stem, C4 photosynthesis","grown on large scale, grown on small scale"
+400,vegetables,erect,herb,perennial,single stem,grown on small scale
+401,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem, C3 photosynthesis",grown on large scale
+402,fruits & nuts,erect,herb,perennial,single stem,grown on large scale
+411,"fruits & nuts, vegetables, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, semi evergreen, single stem",grown on small scale
+412,fruits & nuts,erect,tree,perennial,"deciduous, single stem",grown on small scale
+414,fruits & nuts,erect,"shrub, tree",perennial,"evergreen, deciduous, single stem, multi stem","grown on large scale, harvested from wild"
+431,"vegetables, medicinals & aromatic",erect,herb,biennial,deciduous,grown on small scale
+432,"vegetables, materials","erect, acaulescent (or rosette plants)",herb,"annual, biennial",single stem,grown on small scale
+443,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,"evergreen, single stem",
+449,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+459,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+465,"forage/pasture, ornamentals/turf, medicinals & aromatic",erect,grass,perennial,,harvested from wild
+468,"vegetables, medicinals & aromatic",erect,herb,perennial,multi stem,grown on large scale
+481,"cereals & pseudocereals, cover crop",erect,grass,annual,,grown on large scale
+482,"fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,grown on small scale
+483,"fruits & nuts, materials, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+493,"materials, environmental",erect,grass,perennial,"evergreen, multi stem",grown on small scale
+501,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,single stem,
+504,vegetables,climber/scrambler/scadent,herb,"annual, perennial",multi stem,grown on small scale
+505,"vegetables, ornamentals/turf",climber/scrambler/scadent,herb,"annual, perennial",multi stem,grown on small scale
+508,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+513,fruits & nuts,climber/scrambler/scadent,herb,annual,"multi stem, C3 photosynthesis",grown on small scale
+514,"roots/tubers, vegetables",acaulescent (or rosette plants),herb,biennial,single stem,grown on large scale
+517,"vegetables, ornamentals/turf, medicinals & aromatic, weed",erect,herb,"annual, perennial",multi stem,"grown on small scale, harvested from wild"
+545,forest/wood,erect,tree,perennial,"evergreen, semi evergreen, single stem",
+547,"vegetables, materials",acaulescent (or rosette plants),herb,"annual, biennial, perennial","single stem, C3 photosynthesis",grown on small scale
+548,"vegetables, materials",erect,herb,annual,single stem,grown on large scale
+549,"forage/pasture, vegetables, materials",erect,herb,"annual, biennial",,grown on large scale
+551,"vegetables, environmental",erect,herb,"annual, biennial",single stem,"grown on large scale, grown on small scale"
+553,vegetables,erect,herb,biennial,single stem,grown on small scale
+554,vegetables,acaulescent (or rosette plants),herb,biennial,single stem,grown on small scale
+555,vegetables,erect,herb,"annual, biennial",single stem,grown on large scale
+556,vegetables,erect,herb,biennial,single stem,grown on small scale
+565,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on small scale
+576,vegetables,prostrate/procumbent/semi-erect,shrub,perennial,"multi stem, C3 photosynthesis",grown on large scale
+588,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+594,"vegetables, medicinals & aromatic",erect,herb,"annual, perennial",,grown on large scale
+599,"materials, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem",grown on large scale
+606,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,single stem,grown on small scale
+609,"pulses (grain legumes), forage/pasture, cover crop","erect, prostrate/procumbent/semi-erect","herb, vine, sub-shrub","annual, perennial",multi stem,grown on large scale
+612,"roots/tubers, materials, ornamentals/turf, medicinals & aromatic, environmental",erect,herb,perennial,"evergreen, single stem",grown on small scale
+618,"vegetables, medicinals & aromatic",erect,herb,annual,,grown on large scale
+621,fruits & nuts,erect,sub-shrub,perennial,multi stem,grown on small scale
+630,"fruits & nuts, medicinals & aromatic",erect,herb,perennial,"evergreen, single stem","grown on large scale, grown on small scale"
+633,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+639,"fruits & nuts, ornamentals/turf, environmental",erect,shrub,"annual, perennial",multi stem,
+658,"forage/pasture, fruits & nuts, materials, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+660,vegetables,erect,herb,annual,,grown on small scale
+669,"vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+689,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+693,vegetables,acaulescent (or rosette plants),herb,"annual, biennial",single stem,grown on small scale
+694,"vegetables, medicinals & aromatic",erect,herb,"biennial, perennial",multi stem,"grown on small scale, harvested from wild"
+708,"fruits & nuts, materials, medicinals & aromatic",prostrate/procumbent/semi-erect,"herb, vine",annual,multi stem,"grown on large scale, grown on small scale"
+711,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on large scale
+712,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on small scale
+714,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on large scale
+716,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on large scale
+717,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on large scale
+718,fruits & nuts,erect,tree,perennial,"evergreen, single stem","grown on large scale, grown on small scale"
+720,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on large scale
+722,"fruits & nuts, ornamentals/turf",erect,tree,perennial,"evergreen, single stem, multi stem","grown on large scale, grown on small scale"
+738,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, cover crop",climber/scrambler/scadent,"vine, shrub",perennial,multi stem,grown on small scale
+743,"fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+744,"fruits & nuts, materials, forest/wood",erect,tree,perennial,"evergreen, single stem","grown on large scale, harvested from wild"
+749,"materials, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem",grown on large scale
+750,"materials, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem",grown on large scale
+751,"fruits & nuts, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+758,"roots/tubers, vegetables, ornamentals/turf",erect,herb,perennial,,grown on large scale
+777,"fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+784,"vegetables, materials, medicinals & aromatic",erect,herb,annual,,grown on large scale
+803,"forage/pasture, vegetables, environmental",erect,"herb, sub-shrub","annual, perennial",multi stem,
+810,vegetables,erect,herb,"annual, perennial",,grown on large scale
+815,"vegetables, materials, environmental",climber/scrambler/scadent,"herb, vine",annual,single stem,grown on small scale
+817,"fruits & nuts, vegetables, materials, medicinals & aromatic",climber/scrambler/scadent,herb,annual,single stem,grown on large scale
+819,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic",climber/scrambler/scadent,vine,annual,,grown on large scale
+820,"forage/pasture, fruits & nuts, vegetables",climber/scrambler/scadent,vine,annual,,grown on large scale
+821,"fruits & nuts, vegetables, materials",climber/scrambler/scadent,"herb, vine",annual,,"grown on large scale, grown on small scale"
+830,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic",erect,herb,annual,,grown on large scale
+847,"vegetables, materials, medicinals & aromatic",erect,herb,perennial,,"grown on large scale, grown on small scale"
+856,"forage/pasture, medicinals & aromatic",erect,grass,perennial,,grown on small scale
+859,"fruits & nuts, materials, medicinals & aromatic",erect,"herb, shrub, tree",perennial,"single stem, multi stem","grown on large scale, grown on small scale"
+866,"cereals & pseudocereals, forage/pasture, weed",erect,grass,annual,multi stem,
+871,"roots/tubers, forage/pasture, vegetables, materials, medicinals & aromatic",erect,herb,biennial,single stem,"grown on large scale, grown on small scale"
+882,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+889,fruits & nuts,climber/scrambler/scadent,"vine, shrub",perennial,"deciduous, single stem",grown on large scale
+936,"roots/tubers, environmental",climber/scrambler/scadent,vine,perennial,"deciduous, multi stem","grown on large scale, grown on small scale"
+938,vegetables,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+939,"roots/tubers, forage/pasture, environmental",climber/scrambler/scadent,"herb, vine",perennial,,grown on small scale
+942,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+945,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on small scale
+963,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+970,"cereals & pseudocereals, forage/pasture, vegetables, environmental, weed",erect,grass,annual,multi stem,grown on small scale
+972,"forage/pasture, materials",erect,tree,perennial,"evergreen, single stem","grown on large scale, grown on small scale, harvested from wild"
+985,"cereals & pseudocereals, forage/pasture, vegetables, environmental, weed",prostrate/procumbent/semi-erect,grass,annual,multi stem,grown on small scale
+988,"vegetables, medicinals & aromatic, weed",prostrate/procumbent/semi-erect,herb,annual,multi stem,
+1002,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+1007,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+1030,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,"evergreen, single stem",grown on small scale
+1033,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+1068,"fruits & nuts, ornamentals/turf, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+1071,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem, C3 photosynthesis","grown on large scale, grown on small scale, harvested from wild"
+1096,vegetables,erect,herb,annual,single stem,grown on large scale
+1107,"vegetables, materials, medicinals & aromatic",erect,herb,"biennial, perennial",single stem,grown on large scale
+1110,"fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+1112,fruits & nuts,acaulescent (or rosette plants),herb,perennial,single stem,grown on large scale
+1122,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+1125,"fruits & nuts, materials",erect,tree,perennial,"evergreen, single stem",
+1150,pulses (grain legumes),erect,herb,annual,,grown on large scale
+1152,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+1193,"roots/tubers, forage/pasture, materials",erect,herb,perennial,single stem,grown on large scale
+1212,"forage/pasture, fruits & nuts, materials, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem","grown on large scale, harvested from wild"
+1213,materials,erect,"herb, sub-shrub",annual,multi stem,"grown on large scale, grown on small scale"
+1216,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic",erect,herb,annual,"single stem, multi stem, C3 photosynthesis","grown on large scale, grown on small scale"
+1220,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,"deciduous, multi stem",grown on small scale
+1232,"cereals & pseudocereals, medicinals & aromatic",erect,grass,annual,,grown on large scale
+1252,forage/pasture,erect,grass,perennial,,grown on large scale
+1260,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,grown on small scale
+1264,"forage/pasture, vegetables",climber/scrambler/scadent,"herb, vine",perennial,"evergreen, multi stem",grown on small scale
+1265,,,,,,
+1283,"cereals & pseudocereals, forage/pasture, weed",erect,grass,"annual, perennial",multi stem,
+1306,"forage/pasture, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+1311,"forage/pasture, vegetables, ornamentals/turf, cover crop, environmental",climber/scrambler/scadent,"herb, vine","annual, perennial","multi stem, C3 photosynthesis",grown on large scale
+1313,vegetables,acaulescent (or rosette plants),herb,"annual, biennial",single stem,grown on large scale
+1315,"fruits & nuts, vegetables, materials, medicinals & aromatic",climber/scrambler/scadent,"herb, vine",annual,multi stem,grown on small scale
+1344,"forage/pasture, materials, ornamentals/turf, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on large scale
+1357,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",grown on large scale
+1373,"vegetables, materials, medicinals & aromatic",climber/scrambler/scadent,"herb, vine",annual,C3 photosynthesis,grown on small scale
+1379,"forage/pasture, vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,annual,single stem,grown on large scale
+1382,"fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+1399,"pulses (grain legumes), forage/pasture, medicinals & aromatic, environmental","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,annual,multi stem,grown on large scale
+1406,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+1407,"fruits & nuts, materials, ornamentals/turf, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+1410,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",harvested from wild
+1414,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+1416,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,,grown on large scale
+1420,roots/tubers,erect,shrub,perennial,,grown on large scale
+1428,"forage/pasture, cover crop","erect, prostrate/procumbent/semi-erect",herb,perennial,,grown on large scale
+1436,fruits & nuts,erect,tree,perennial,single stem,grown on small scale
+1466,"vegetables, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+1485,"ornamentals/turf, medicinals & aromatic, weed","prostrate/procumbent/semi-erect, climber/scrambler/scadent","herb, vine",annual,multi stem,
+1488,"fruits & nuts, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+1491,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on large scale
+1500,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",harvested from wild
+1503,fruits & nuts,erect,herb,perennial,,grown on large scale
+1522,"vegetables, medicinals & aromatic",,herb,perennial,,grown on small scale
+1528,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem, multi stem",grown on large scale
+1543,"fruits & nuts, environmental",prostrate/procumbent/semi-erect,tree,perennial,"evergreen, single stem",
+1547,"vegetables, medicinals & aromatic, weed",erect,herb,annual,single stem,grown on large scale
+1553,"materials, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on large scale
+1574,cereals & pseudocereals,erect,grass,annual,"multi stem, C3 photosynthesis",grown on large scale
+1582,"pulses (grain legumes), roots/tubers, forage/pasture, environmental",climber/scrambler/scadent,"herb, vine","annual, perennial",multi stem,"grown on large scale, grown on small scale"
+1602,"cereals & pseudocereals, forage/pasture",,grass,perennial,multi stem,
+1617,"forage/pasture, fruits & nuts, ornamentals/turf, forest/wood, environmental, weed",erect,tree,perennial,"evergreen, single stem",grown on small scale
+1630,"cereals & pseudocereals, forage/pasture, weed",erect,grass,"annual, perennial",multi stem,grown on small scale
+1634,environmental,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+1637,fruits & nuts,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+1638,"fruits & nuts, ornamentals/turf, weed",climber/scrambler/scadent,"herb, vine",perennial,"deciduous, multi stem",grown on small scale
+1639,fruits & nuts,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+1642,vegetables,acaulescent (or rosette plants),herb,"annual, biennial",single stem,grown on small scale
+1659,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, deciduous, single stem, C3 photosynthesis",grown on large scale
+1665,"pulses (grain legumes), roots/tubers, forage/pasture, ornamentals/turf, medicinals & aromatic, cover crop",climber/scrambler/scadent,herb,"annual, perennial",,grown on large scale
+1666,"pulses (grain legumes), forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,"annual, perennial","single stem, C3 photosynthesis","grown on large scale, grown on small scale, harvested from wild"
+1668,"pulses (grain legumes), forage/pasture, vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,annual,"multi stem, C3 photosynthesis",grown on large scale
+1673,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on large scale
+1686,fruits & nuts,erect,"herb, shrub",perennial,multi stem,
+1689,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on small scale
+1721,"pulses (grain legumes), medicinals & aromatic","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,annual,single stem,grown on large scale
+1784,"vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+1793,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,"semi evergreen, single stem",
+1796,"fruits & nuts, ornamentals/turf, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on large scale
+1803,"fruits & nuts, ornamentals/turf",erect,"shrub, tree",perennial,"single stem, multi stem",
+1804,"fruits & nuts, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+1807,"pulses (grain legumes), roots/tubers, forage/pasture, vegetables, materials, cover crop, environmental",climber/scrambler/scadent,"herb, vine",perennial,"multi stem, C3 photosynthesis",grown on small scale
+1817,"vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"semi evergreen, deciduous, single stem",grown on small scale
+1822,"roots/tubers, forage/pasture, ornamentals/turf, environmental, weed",climber/scrambler/scadent,"herb, vine",perennial,multi stem,grown on small scale
+1824,"roots/tubers, forage/pasture, materials, environmental",climber/scrambler/scadent,"herb, vine",perennial,single stem,"grown on large scale, grown on small scale"
+1829,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, deciduous, single stem",grown on small scale
+1832,"fruits & nuts, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+1839,"roots/tubers, vegetables",erect,herb,annual,multi stem,grown on small scale
+1877,"fruits & nuts, medicinals & aromatic",erect,sub-shrub,perennial,"deciduous, multi stem","grown on large scale, grown on small scale, harvested from wild"
+1881,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,"deciduous, multi stem","grown on large scale, grown on small scale, harvested from wild"
+1883,vegetables,erect,grass,perennial,multi stem,grown on small scale
+1884,,,,,,
+1885,"forage/pasture, materials, weed",erect,grass,perennial,C4 photosynthesis,"grown on small scale, harvested from wild"
+1887,"forage/pasture, vegetables, materials",erect,grass,perennial,multi stem,harvested from wild
+1894,"forage/pasture, fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,single stem,grown on small scale
+1929,"cereals & pseudocereals, forage/pasture, cover crop, environmental",erect,grass,annual,multi stem,grown on large scale
+1930,"vegetables, medicinals & aromatic",climber/scrambler/scadent,vine,"annual, perennial",,grown on small scale
+1937,"forage/pasture, materials",erect,herb,annual,,grown on large scale
+1938,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem","grown on large scale, grown on small scale"
+1961,"fruits & nuts, vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+1965,"vegetables, medicinals & aromatic",erect,herb,annual,single stem,grown on large scale
+1966,medicinals & aromatic,erect,herb,annual,multi stem,"grown on small scale, harvested from wild"
+1968,"fruits & nuts, ornamentals/turf",erect,sub-shrub,perennial,"single stem, multi stem",grown on small scale
+1970,"vegetables, medicinals & aromatic, weed",erect,shrub,perennial,multi stem,
+1971,"roots/tubers, medicinals & aromatic",erect,herb,annual,multi stem,grown on large scale
+1978,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+1982,"cereals & pseudocereals, forage/pasture, materials, medicinals & aromatic",erect,grass,annual,single stem,grown on large scale
+1991,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",
+1997,vegetables,acaulescent (or rosette plants),herb,annual,multi stem,grown on small scale
+2000,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"evergreen, deciduous, single stem",grown on small scale
+2002,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,deciduous,harvested from wild
+2047,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,"grown on large scale, harvested from wild"
+2062,"fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",
+2074,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"semi evergreen, deciduous, single stem",grown on large scale
+2075,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+2095,"materials, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+2099,medicinals & aromatic,erect,herb,perennial,,grown on large scale
+2100,"vegetables, medicinals & aromatic",climber/scrambler/scadent,"herb, vine",annual,multi stem,grown on small scale
+2114,"cereals & pseudocereals, forage/pasture, medicinals & aromatic",erect,grass,annual,"single stem, C3 photosynthesis",grown on large scale
+2120,roots/tubers,prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+2146,"pulses (grain legumes), medicinals & aromatic",erect,herb,annual,,grown on large scale
+2147,"pulses (grain legumes), forage/pasture, medicinals & aromatic, environmental","erect, climber/scrambler/scadent","herb, vine, sub-shrub",annual,multi stem,"grown on large scale, grown on small scale"
+2149,"pulses (grain legumes), forage/pasture, medicinals & aromatic, cover crop, environmental",prostrate/procumbent/semi-erect,herb,annual,multi stem,
+2150,"pulses (grain legumes), forage/pasture, cover crop, environmental","prostrate/procumbent/semi-erect, climber/scrambler/scadent","herb, vine, sub-shrub",perennial,"multi stem, C3 photosynthesis",
+2152,"pulses (grain legumes), forage/pasture, vegetables, cover crop, environmental","erect, climber/scrambler/scadent","herb, vine","annual, perennial",multi stem,"grown on large scale, grown on small scale"
+2153,"pulses (grain legumes), forage/pasture, vegetables, environmental",prostrate/procumbent/semi-erect,herb,annual,multi stem,"grown on large scale, grown on small scale"
+2160,"fruits & nuts, medicinals & aromatic",climber/scrambler/scadent,"vine, shrub",perennial,"deciduous, single stem",grown on large scale
+2168,roots/tubers,erect,herb,annual,single stem,grown on small scale
+2175,,,,,,
+2187,"cereals & pseudocereals, forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,annual,C4 photosynthesis,grown on small scale
+2188,vegetables,erect,herb,annual,"deciduous, multi stem, C4 photosynthesis",grown on small scale
+2189,vegetables,erect,herb,annual,"multi stem, C4 photosynthesis",grown on large scale
+2190,"vegetables, ornamentals/turf",erect,herb,annual,C4 photosynthesis,grown on small scale
+2192,medicinals & aromatic,erect,herb,"annual, biennial",multi stem,grown on small scale
+2194,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on large scale
+2196,fruits & nuts,erect,tree,perennial,"single stem, multi stem",grown on small scale
+2197,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",
+2198,"fruits & nuts, ornamentals/turf",erect,tree,perennial,single stem,grown on small scale
+2199,"pulses (grain legumes), vegetables, materials, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,annual,,grown on large scale
+2214,fruits & nuts,erect,tree,perennial,"evergreen, deciduous",grown on small scale
+2220,vegetables,erect,herb,"annual, biennial",single stem,grown on large scale
+2227,"pulses (grain legumes), forage/pasture, vegetables, cover crop, environmental",climber/scrambler/scadent,"herb, vine, sub-shrub",perennial,multi stem,grown on large scale
+2228,"roots/tubers, forage/pasture, materials, environmental",erect,herb,perennial,multi stem,grown on small scale
+2231,"fruits & nuts, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+2234,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on large scale, harvested from wild"
+2242,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on large scale
+2246,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on large scale
+2263,fruits & nuts,erect,tree,perennial,evergreen,grown on small scale
+2282,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,grown on small scale
+2285,"cereals & pseudocereals, forage/pasture, vegetables, materials, cover crop",erect,herb,annual,,grown on large scale
+2296,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,deciduous,
+2300,"fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+2301,"fruits & nuts, materials, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+2302,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",
+2307,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+2315,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2318,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,single stem,grown on small scale
+2334,"fruits & nuts, materials, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+2335,"roots/tubers, materials, medicinals & aromatic",erect,herb,perennial,single stem,
+2340,medicinals & aromatic,"erect, prostrate/procumbent/semi-erect",herb,perennial,,grown on small scale
+2347,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, weed","erect, prostrate/procumbent/semi-erect",herb,perennial,single stem,grown on small scale
+2348,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+2349,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2350,"forage/pasture, medicinals & aromatic, cover crop",climber/scrambler/scadent,herb,"annual, perennial",multi stem,grown on large scale
+2357,vegetables,erect,herb,"annual, perennial",single stem,grown on small scale
+2359,"roots/tubers, vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"evergreen, deciduous, multi stem",grown on small scale
+2360,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+2363,"vegetables, medicinals & aromatic, environmental",erect,herb,annual,single stem,grown on small scale
+2364,vegetables,"erect, prostrate/procumbent/semi-erect",herb,perennial,single stem,grown on small scale
+2371,roots/tubers,erect,herb,"annual, perennial",single stem,grown on small scale
+2380,"fruits & nuts, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+2381,fruits & nuts,climber/scrambler/scadent,vine,perennial,multi stem,"grown on small scale, harvested from wild"
+2386,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2390,vegetables,erect,tree,perennial,single stem,"grown on small scale, harvested from wild"
+2394,"fruits & nuts, vegetables",erect,tree,perennial,"evergreen, single stem",grown on small scale
+2397,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2398,"forage/pasture, fruits & nuts, materials",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2413,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+2428,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+2433,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, weed","erect, acaulescent (or rosette plants)",herb,perennial,"deciduous, single stem, multi stem, C3 photosynthesis, C4 photosynthesis",grown on small scale
+2442,vegetables,"erect, acaulescent (or rosette plants)",herb,"annual, biennial",single stem,grown on small scale
+2447,roots/tubers,climber/scrambler/scadent,herb,annual,,grown on small scale
+2452,"fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+2454,"vegetables, medicinals & aromatic",erect,herb,perennial,single stem,grown on small scale
+2465,fruits & nuts,erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on large scale
+2467,fruits & nuts,erect,tree,perennial,"evergreen, single stem",
+2474,vegetables,acaulescent (or rosette plants),herb,biennial,single stem,grown on large scale
+2475,"vegetables, materials",climber/scrambler/scadent,"herb, vine",annual,,grown on small scale
+2479,pulses (grain legumes),erect,herb,annual,,"grown on large scale, grown on small scale"
+2483,fruits & nuts,erect,herb,perennial,"evergreen, single stem",grown on large scale
+2486,vegetables,erect,herb,biennial,single stem,
+2499,"fruits & nuts, vegetables, materials, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",grown on small scale
+2501,"fruits & nuts, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem, C3 photosynthesis",
+2507,"forage/pasture, fruits & nuts, medicinals & aromatic, environmental",erect,herb,perennial,single stem,grown on small scale
+2508,"forage/pasture, fruits & nuts, materials, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+2509,"cereals & pseudocereals, forage/pasture, vegetables, medicinals & aromatic",erect,herb,annual,,grown on small scale
+2514,"materials, medicinals & aromatic",erect,herb,annual,"multi stem, C3 photosynthesis","grown on large scale, grown on small scale"
+2516,"pulses (grain legumes), cover crop","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,annual,,grown on small scale
+2524,"pulses (grain legumes), forage/pasture, vegetables, environmental",prostrate/procumbent/semi-erect,herb,"annual, perennial",multi stem,grown on small scale
+2525,"pulses (grain legumes), forage/pasture, cover crop",climber/scrambler/scadent,herb,annual,,grown on small scale
+2528,vegetables,erect,herb,"annual, biennial, perennial",multi stem,grown on small scale
+2579,"fruits & nuts, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+2580,forest/wood,erect,"shrub, tree",perennial,"single stem, multi stem",harvested from wild
+2588,"forage/pasture, fruits & nuts, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",harvested from wild
+2599,"ornamentals/turf, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+2600,"fruits & nuts, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",harvested from wild
+2646,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+2651,"forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",harvested from wild
+2664,"forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",harvested from wild
+2697,"pulses (grain legumes), forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+2705,"forage/pasture, fruits & nuts, forest/wood, environmental",erect,tree,perennial,single stem,harvested from wild
+2718,"forage/pasture, fruits & nuts, materials, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+2735,fruits & nuts,prostrate/procumbent/semi-erect,"herb, vine",perennial,multi stem,
+2741,"fruits & nuts, ornamentals/turf",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+2783,"fruits & nuts, materials, ornamentals/turf, environmental",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+2787,"fruits & nuts, materials, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+2803,"fruits & nuts, environmental",climber/scrambler/scadent,vine,perennial,"deciduous, single stem",
+2807,"fruits & nuts, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+2808,"fruits & nuts, materials, ornamentals/turf",erect,tree,perennial,"semi evergreen, deciduous, single stem",harvested from wild
+2809,"forage/pasture, fruits & nuts, materials",erect,tree,perennial,"deciduous, single stem",grown on small scale
+2844,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,,grown on small scale
+2856,"fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on large scale, harvested from wild"
+2863,"vegetables, medicinals & aromatic",erect,herb,perennial,multi stem,grown on small scale
+2872,"fruits & nuts, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+2881,"vegetables, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+2925,"forage/pasture, medicinals & aromatic, weed",erect,grass,perennial,multi stem,grown on large scale
+2958,"forage/pasture, materials, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",harvested from wild
+2972,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+2984,medicinals & aromatic,erect,herb,annual,,harvested from wild
+2992,vegetables,erect,herb,biennial,,grown on large scale
+2994,"vegetables, medicinals & aromatic",erect,herb,"annual, biennial",multi stem,grown on large scale
+3052,"vegetables, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+3069,forage/pasture,"erect, prostrate/procumbent/semi-erect",herb,"annual, perennial",multi stem,grown on large scale
+3086,vegetables,erect,herb,annual,,grown on small scale
+3090,"cereals & pseudocereals, vegetables",erect,herb,annual,C4 photosynthesis,grown on large scale
+3116,"fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem, C3 photosynthesis",
+3127,"fruits & nuts, materials, environmental",erect,tree,perennial,evergreen,
+3218,medicinals & aromatic,erect,herb,"biennial, perennial",,grown on small scale
+3220,medicinals & aromatic,erect,herb,"biennial, perennial",,harvested from wild
+3236,fruits & nuts,erect,tree,perennial,"deciduous, single stem",grown on large scale
+3241,"fruits & nuts, vegetables, medicinals & aromatic",erect,tree,perennial,"evergreen, semi evergreen, single stem",grown on small scale
+3242,fruits & nuts,erect,tree,perennial,single stem,"grown on large scale, grown on small scale"
+3243,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",
+3286,"roots/tubers, vegetables",climber/scrambler/scadent,"herb, vine",perennial,"deciduous, multi stem",
+3289,vegetables,"prostrate/procumbent/semi-erect, acaulescent (or rosette plants)",herb,"annual, biennial",single stem,grown on small scale
+3308,"pulses (grain legumes), forage/pasture",erect,herb,perennial,multi stem,"grown on large scale, grown on small scale"
+3310,"pulses (grain legumes), forage/pasture, ornamentals/turf","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,perennial,multi stem,grown on small scale
+3318,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",
+3325,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,,harvested from wild
+3327,"fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+3330,"vegetables, medicinals & aromatic",erect,herb,biennial,,"grown on small scale, harvested from wild"
+3348,"materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+3351,"forage/pasture, materials",erect,tree,perennial,"evergreen, single stem",grown on small scale
+3384,vegetables,"erect, acaulescent (or rosette plants)",herb,"annual, perennial",single stem,grown on small scale
+3386,roots/tubers,prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+3423,fruits & nuts,erect,tree,perennial,"evergreen, semi evergreen, single stem",grown on large scale
+3428,"forage/pasture, fruits & nuts",erect,tree,perennial,"deciduous, single stem",
+3435,"forage/pasture, fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on small scale
+3522,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",harvested from wild
+3549,"forage/pasture, vegetables, ornamentals/turf",erect,herb,annual,"multi stem, C3 photosynthesis",grown on small scale
+3560,"fruits & nuts, vegetables, materials, ornamentals/turf",erect,tree,perennial,"evergreen, single stem",grown on small scale
+3568,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,grown on small scale
+3569,"cereals & pseudocereals, forage/pasture, weed",erect,grass,"annual, perennial",,"grown on small scale, harvested from wild"
+3571,"cereals & pseudocereals, materials",erect,grass,annual,"deciduous, multi stem","grown on small scale, previously widely grown"
+3572,"cereals & pseudocereals, forage/pasture, weed",erect,grass,annual,,grown on small scale
+3575,"fruits & nuts, materials, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+3576,"forage/pasture, fruits & nuts, materials, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+3582,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, semi evergreen, deciduous, single stem, multi stem",
+3591,"fruits & nuts, materials, ornamentals/turf, environmental",erect,tree,perennial,single stem,grown on small scale
+3596,"fruits & nuts, materials, ornamentals/turf",erect,tree,perennial,single stem,
+3597,"fruits & nuts, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+3608,"fruits & nuts, medicinals & aromatic, weed",erect,"shrub, tree",perennial,"semi evergreen, deciduous, multi stem",harvested from wild
+3613,"forage/pasture, vegetables, materials, environmental",erect,grass,perennial,"evergreen, multi stem",grown on small scale
+3618,"vegetables, materials, environmental",erect,grass,perennial,multi stem,
+3655,"fruits & nuts, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",harvested from wild
+3659,fruits & nuts,"erect, climber/scrambler/scadent","vine, shrub",perennial,multi stem,grown on small scale
+3669,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, semi evergreen, deciduous, single stem, multi stem",harvested from wild
+3673,"cereals & pseudocereals, materials",prostrate/procumbent/semi-erect,grass,"annual, perennial",multi stem,harvested from wild
+3682,"ornamentals/turf, medicinals & aromatic",acaulescent (or rosette plants),herb,perennial,,harvested from wild
+3696,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+3697,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+3699,"fruits & nuts, forest/wood",erect,tree,perennial,"semi evergreen, deciduous, single stem",grown on small scale
+3712,"roots/tubers, forage/pasture, vegetables, materials, medicinals & aromatic",acaulescent (or rosette plants),herb,biennial,single stem,grown on large scale
+3713,vegetables,acaulescent (or rosette plants),herb,biennial,single stem,grown on large scale
+3721,"medicinals & aromatic, forest/wood",erect,tree,perennial,,grown on large scale
+3722,"vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+3761,"vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,annual,,grown on small scale
+3765,"materials, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on small scale
+3771,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+3814,"cereals & pseudocereals, forage/pasture",erect,grass,"annual, perennial",multi stem,grown on small scale
+3848,"forage/pasture, vegetables, cover crop",erect,herb,annual,,grown on small scale
+3861,"roots/tubers, forage/pasture",erect,herb,"annual, biennial",single stem,grown on large scale
+3867,"forage/pasture, vegetables",erect,herb,"biennial, perennial",,grown on small scale
+3877,vegetables,erect,herb,biennial,single stem,grown on small scale
+3878,vegetables,erect,herb,biennial,single stem,grown on small scale
+3881,"roots/tubers, vegetables",acaulescent (or rosette plants),herb,biennial,single stem,grown on small scale
+3896,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"semi evergreen, deciduous, single stem",
+3957,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"semi evergreen, single stem",
+3988,"roots/tubers, ornamentals/turf, weed",erect,herb,perennial,deciduous,grown on small scale
+3993,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+4037,"roots/tubers, materials, medicinals & aromatic, environmental",erect,herb,perennial,multi stem,grown on small scale
+4081,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+4089,materials,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+4090,materials,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on large scale
+4094,"vegetables, weed",erect,herb,"annual, biennial, perennial",,
+4111,"fruits & nuts, materials, ornamentals/turf",erect,tree,perennial,single stem,grown on small scale
+4145,"fruits & nuts, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+4159,"vegetables, ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,sub-shrub,perennial,"deciduous, multi stem","grown on large scale, grown on small scale"
+4161,"forage/pasture, fruits & nuts, medicinals & aromatic, environmental","erect, climber/scrambler/scadent","shrub, tree",perennial,"deciduous, single stem, multi stem",
+4218,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"evergreen, single stem, multi stem",grown on small scale
+4223,"fruits & nuts, medicinals & aromatic, environmental",climber/scrambler/scadent,"vine, shrub, tree",perennial,"single stem, multi stem",grown on small scale
+4225,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental","erect, prostrate/procumbent/semi-erect","shrub, tree",perennial,"evergreen, single stem, multi stem","grown on small scale, harvested from wild"
+4229,"fruits & nuts, ornamentals/turf, environmental",erect,shrub,perennial,"evergreen, multi stem",grown on small scale
+4256,medicinals & aromatic,erect,herb,"annual, biennial, perennial",,grown on large scale
+4271,"fruits & nuts, materials, forest/wood",erect,tree,perennial,single stem,
+4273,"fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+4278,"fruits & nuts, materials, forest/wood",erect,tree,perennial,"evergreen, single stem",
+4281,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+4305,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, cover crop, environmental",erect,shrub,perennial,multi stem,harvested from wild
+4312,"fruits & nuts, ornamentals/turf, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+4313,"fruits & nuts, materials, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+4314,"fruits & nuts, materials, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+4315,"fruits & nuts, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, deciduous, single stem, multi stem",grown on small scale
+4341,"forage/pasture, materials, ornamentals/turf, forest/wood, environmental, weed",erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",
+4398,"vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,"annual, biennial",,harvested from wild
+4414,roots/tubers,erect,"herb, shrub",perennial,multi stem,grown on small scale
+4426,"materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on large scale
+4435,"fruits & nuts, materials, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+4465,vegetables,erect,tree,perennial,single stem,
+4466,"vegetables, ornamentals/turf",erect,tree,perennial,"evergreen, single stem",
+4481,"forage/pasture, vegetables, materials",erect,herb,annual,single stem,
+4485,"vegetables, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+4494,"pulses (grain legumes), medicinals & aromatic",erect,herb,annual,,"grown on large scale, grown on small scale"
+4509,"roots/tubers, vegetables, materials, medicinals & aromatic",acaulescent (or rosette plants),herb,perennial,single stem,
+4524,"vegetables, ornamentals/turf, medicinals & aromatic, environmental",prostrate/procumbent/semi-erect,herb,annual,multi stem,grown on small scale
+4528,"vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,"annual, biennial",multi stem,"grown on small scale, harvested from wild"
+4538,"fruits & nuts, forest/wood",erect,tree,perennial,single stem,
+4617,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+4618,medicinals & aromatic,climber/scrambler/scadent,"herb, vine","annual, perennial",multi stem,grown on small scale
+4626,fruits & nuts,erect,tree,perennial,"evergreen, single stem",grown on small scale
+4631,fruits & nuts,erect,tree,perennial,"evergreen, single stem",
+4635,"fruits & nuts, materials, environmental",erect,tree,perennial,"evergreen, deciduous",grown on small scale
+4646,fruits & nuts,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+4659,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+4704,"vegetables, medicinals & aromatic",erect,shrub,perennial,multi stem,grown on small scale
+4744,"fruits & nuts, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+4755,"fruits & nuts, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+4768,roots/tubers,prostrate/procumbent/semi-erect,herb,annual,multi stem,grown on small scale
+4772,"roots/tubers, vegetables",erect,herb,,,grown on small scale
+4779,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+4804,"forage/pasture, vegetables, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",
+4854,"forage/pasture, fruits & nuts, forest/wood",erect,shrub,perennial,"evergreen, multi stem",harvested from wild
+4855,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+4873,"fruits & nuts, ornamentals/turf",prostrate/procumbent/semi-erect,"herb, sub-shrub",perennial,"deciduous, multi stem",
+4880,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,shrub,perennial,"deciduous, multi stem",harvested from wild
+4893,fruits & nuts,erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+4899,fruits & nuts,erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+4916,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",
+4926,"vegetables, medicinals & aromatic",erect,herb,perennial,multi stem,"grown on small scale, harvested from wild"
+4935,ornamentals/turf,erect,"shrub, tree",perennial,,"grown on small scale, harvested from wild"
+4959,"vegetables, materials, medicinals & aromatic","erect, prostrate/procumbent/semi-erect",herb,perennial,,harvested from wild
+4999,"vegetables, medicinals & aromatic, environmental",erect,herb,perennial,"evergreen, multi stem",
+5008,vegetables,climber/scrambler/scadent,"herb, vine",annual,multi stem,
+5012,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf",climber/scrambler/scadent,herb,annual,,grown on large scale
+5030,"fruits & nuts, vegetables, materials, medicinals & aromatic",climber/scrambler/scadent,herb,annual,,grown on small scale
+5032,"vegetables, materials, ornamentals/turf",climber/scrambler/scadent,herb,perennial,single stem,grown on small scale
+5033,materials,prostrate/procumbent/semi-erect,herb,perennial,multi stem,harvested from wild
+5035,"vegetables, materials, environmental",climber/scrambler/scadent,"herb, vine",annual,,grown on small scale
+5042,fruits & nuts,erect,tree,perennial,"evergreen, single stem",harvested from wild
+5066,"vegetables, materials",erect,herb,perennial,,grown on small scale
+5117,"fruits & nuts, materials, medicinals & aromatic",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+5138,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, weed",erect,herb,perennial,multi stem,grown on small scale
+5148,"ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+5158,"roots/tubers, weed",erect,herb,perennial,,
+5163,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"evergreen, multi stem",
+5181,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+5232,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+5233,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+5235,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+5236,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+5238,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+5275,"fruits & nuts, vegetables, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+5302,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,,"semi evergreen, deciduous, single stem",
+5310,"materials, medicinals & aromatic",erect,"herb, sub-shrub",perennial,,"grown on small scale, harvested from wild"
+5329,cereals & pseudocereals,erect,grass,annual,"multi stem, C4 photosynthesis",grown on small scale
+5343,"materials, forest/wood",erect,tree,perennial,"deciduous, single stem",
+5349,"fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,evergreen,grown on small scale
+5350,fruits & nuts,erect,tree,perennial,single stem,harvested from wild
+5369,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+5382,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+5387,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,harvested from wild
+5408,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+5429,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+5464,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+5465,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, semi evergreen, deciduous, single stem, multi stem",grown on small scale
+5466,"fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+5474,"fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+5521,"forage/pasture, fruits & nuts, materials, ornamentals/turf, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+5534,"fruits & nuts, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+5536,fruits & nuts,erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+5597,"cereals & pseudocereals, forage/pasture, environmental",erect,grass,annual,,grown on small scale
+5608,"vegetables, materials, medicinals & aromatic",erect,herb,"biennial, perennial",,harvested from wild
+5622,"forage/pasture, vegetables, materials, ornamentals/turf, environmental, weed",,herb,biennial,multi stem,
+5632,materials,erect,tree,perennial,"evergreen, single stem",grown on small scale
+5657,"cereals & pseudocereals, forage/pasture, environmental","erect, prostrate/procumbent/semi-erect",grass,annual,"multi stem, C4 photosynthesis",grown on large scale
+5664,"cereals & pseudocereals, forage/pasture",erect,grass,perennial,multi stem,
+5700,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"evergreen, single stem",grown on small scale
+5706,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+5719,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+5723,"vegetables, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+5728,"cereals & pseudocereals, forage/pasture, weed",erect,grass,annual,multi stem,grown on small scale
+5746,"cereals & pseudocereals, materials",erect,grass,annual,,grown on large scale
+5794,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,annual,multi stem,"grown on small scale, harvested from wild"
+5805,"pulses (grain legumes), forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+5967,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on small scale
+5995,"fruits & nuts, ornamentals/turf, environmental",erect,"shrub, tree",perennial,"single stem, multi stem","grown on small scale, harvested from wild"
+6001,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+6002,fruits & nuts,erect,"shrub, tree",perennial,"evergreen, deciduous, single stem, multi stem",grown on small scale
+6051,"fruits & nuts, environmental",erect,tree,perennial,evergreen,harvested from wild
+6052,fruits & nuts,erect,tree,perennial,"evergreen, single stem",
+6054,"fruits & nuts, vegetables, ornamentals/turf",erect,tree,perennial,"evergreen, multi stem","grown on small scale, harvested from wild"
+6075,"cereals & pseudocereals, forage/pasture, cover crop, environmental",erect,herb,annual,single stem,grown on large scale
+6076,"cereals & pseudocereals, forage/pasture, weed",erect,herb,annual,single stem,grown on small scale
+6078,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,"deciduous, single stem",
+6080,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+6082,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+6114,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+6149,"fruits & nuts, materials, forest/wood, environmental",erect,tree,perennial,single stem,
+6199,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"semi evergreen, deciduous, single stem",
+6212,"fruits & nuts, materials",climber/scrambler/scadent,tree,perennial,,
+6252,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+6256,fruits & nuts,acaulescent (or rosette plants),herb,perennial,,
+6262,fruits & nuts,acaulescent (or rosette plants),herb,perennial,single stem,harvested from wild
+6309,"vegetables, materials, medicinals & aromatic","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,,,harvested from wild
+6313,"materials, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+6353,"fruits & nuts, materials, environmental",erect,tree,perennial,evergreen,
+6384,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+6397,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+6401,"materials, ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,multi stem,
+6435,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+6458,"cereals & pseudocereals, materials",prostrate/procumbent/semi-erect,grass,perennial,"deciduous, multi stem",
+6500,vegetables,prostrate/procumbent/semi-erect,herb,,,
+6502,"vegetables, materials",prostrate/procumbent/semi-erect,herb,perennial,multi stem,harvested from wild
+6520,fruits & nuts,erect,"shrub, tree",perennial,"semi evergreen, deciduous",grown on small scale
+6523,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+6551,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+6562,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,"evergreen, semi evergreen, single stem",
+6567,"forage/pasture, materials, medicinals & aromatic",erect,herb,annual,,grown on small scale
+6569,"vegetables, materials, ornamentals/turf, medicinals & aromatic",acaulescent (or rosette plants),herb,perennial,"deciduous, single stem",grown on small scale
+6579,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,annual,,"grown on small scale, harvested from wild"
+6663,"vegetables, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+6708,"forage/pasture, fruits & nuts, vegetables, medicinals & aromatic",erect,"herb, sub-shrub",annual,"multi stem, C3 photosynthesis",grown on small scale
+6732,"fruits & nuts, medicinals & aromatic","erect, prostrate/procumbent/semi-erect","shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+6733,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+6754,cereals & pseudocereals,erect,grass,perennial,multi stem,harvested from wild
+6779,"materials, medicinals & aromatic",climber/scrambler/scadent,vine,perennial,,grown on large scale
+6809,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+6837,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem, multi stem",
+6893,"forage/pasture, fruits & nuts, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,single stem,grown on small scale
+6896,"fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+6901,"ornamentals/turf, medicinals & aromatic",acaulescent (or rosette plants),herb,perennial,,grown on small scale
+6955,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+6958,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+7000,"forage/pasture, fruits & nuts, materials",erect,tree,perennial,evergreen,
+7010,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+7013,"fruits & nuts, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+7014,fruits & nuts,erect,tree,perennial,"deciduous, single stem",
+7022,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+7056,fruits & nuts,prostrate/procumbent/semi-erect,herb,annual,multi stem,grown on small scale
+7081,"forage/pasture, vegetables, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+7103,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+7164,"pulses (grain legumes), forage/pasture, environmental",erect,herb,annual,"multi stem, C3 photosynthesis",grown on large scale
+7208,"forage/pasture, fruits & nuts, environmental",erect,shrub,perennial,multi stem,harvested from wild
+7209,"pulses (grain legumes), medicinals & aromatic",erect,herb,annual,"multi stem, C3 photosynthesis",grown on large scale
+7220,roots/tubers,"prostrate/procumbent/semi-erect, acaulescent (or rosette plants)",herb,perennial,single stem,grown on small scale
+7227,vegetables,erect,herb,annual,,grown on small scale
+7277,"roots/tubers, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+7330,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+7364,"vegetables, ornamentals/turf",erect,tree,perennial,"evergreen, single stem",grown on small scale
+7412,"pulses (grain legumes), forage/pasture",prostrate/procumbent/semi-erect,herb,annual,multi stem,
+7431,"pulses (grain legumes), materials, medicinals & aromatic",erect,herb,annual,single stem,grown on large scale
+7434,cover crop,erect,herb,annual,single stem,grown on large scale
+7435,"pulses (grain legumes), forage/pasture, ornamentals/turf, medicinals & aromatic",erect,herb,annual,single stem,grown on small scale
+7444,"vegetables, ornamentals/turf, medicinals & aromatic, cover crop, environmental",erect,shrub,perennial,"deciduous, multi stem",
+7557,"vegetables, materials, ornamentals/turf, environmental",erect,herb,perennial,"deciduous, multi stem",
+7605,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,grown on small scale
+7618,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+7637,medicinals & aromatic,"erect, prostrate/procumbent/semi-erect",herb,annual,,grown on large scale
+7639,"fruits & nuts, materials, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+7695,"vegetables, materials",erect,grass,perennial,"evergreen, multi stem",
+7710,materials,erect,herb,perennial,single stem,grown on small scale
+7721,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+7735,medicinals & aromatic,erect,tree,perennial,,grown on small scale
+7736,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",
+7769,"forage/pasture, fruits & nuts, materials",erect,tree,perennial,"deciduous, single stem",
+7795,"fruits & nuts, vegetables, ornamentals/turf, environmental",climber/scrambler/scadent,"herb, vine",annual,multi stem,grown on small scale
+7797,"vegetables, materials, medicinals & aromatic","prostrate/procumbent/semi-erect, climber/scrambler/scadent","herb, vine",perennial,multi stem,grown on small scale
+7813,"fruits & nuts, ornamentals/turf",climber/scrambler/scadent,vine,perennial,,grown on small scale
+7829,fruits & nuts,erect,tree,perennial,"deciduous, single stem",grown on small scale
+7832,"forage/pasture, vegetables, environmental",prostrate/procumbent/semi-erect,"herb, sub-shrub",annual,multi stem,
+7848,"forage/pasture, fruits & nuts",erect,herb,perennial,"evergreen, single stem, C3 photosynthesis",grown on large scale
+7849,"fruits & nuts, vegetables, medicinals & aromatic, environmental",erect,herb,perennial,"evergreen, single stem, C3 photosynthesis",grown on large scale
+7852,vegetables,erect,herb,perennial,"evergreen, single stem",grown on small scale
+7856,vegetables,erect,herb,perennial,single stem,grown on small scale
+7859,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+7874,fruits & nuts,erect,tree,perennial,"evergreen, deciduous, single stem",grown on small scale
+7944,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+7964,vegetables,prostrate/procumbent/semi-erect,herb,perennial,multi stem,
+8001,"vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem",grown on small scale
+8002,"vegetables, ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,"deciduous, multi stem",
+8005,"roots/tubers, ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,"deciduous, multi stem",harvested from wild
+8039,"vegetables, materials, forest/wood",erect,tree,perennial,"evergreen, single stem",
+8058,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+8076,"vegetables, materials, ornamentals/turf, forest/wood",erect,tree,perennial,"evergreen, multi stem",
+8094,fruits & nuts,erect,shrub,perennial,"evergreen, multi stem, CAM photosynthesis",grown on small scale
+8108,materials,erect,tree,perennial,evergreen,
+8138,cereals & pseudocereals,erect,grass,annual,multi stem,grown on small scale
+8143,"cereals & pseudocereals, forage/pasture, materials",erect,grass,annual,"multi stem, C3 photosynthesis",grown on large scale
+8144,"cereals & pseudocereals, forage/pasture, materials",erect,grass,annual,"multi stem, C3 photosynthesis",grown on small scale
+8207,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",
+8245,materials,erect,shrub,perennial,"evergreen, multi stem",
+8280,cereals & pseudocereals,erect,grass,annual,"single stem, C4 photosynthesis",grown on small scale
+8281,"forage/pasture, environmental",erect,grass,perennial,multi stem,
+8286,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,grown on small scale
+8295,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,annual,,"grown on small scale, harvested from wild"
+8296,medicinals & aromatic,erect,herb,annual,,grown on large scale
+8309,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+8323,"pulses (grain legumes), forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+8328,"vegetables, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+8368,"fruits & nuts, environmental",climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+8370,"fruits & nuts, ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,herb,perennial,,grown on large scale
+8386,medicinals & aromatic,climber/scrambler/scadent,vine,perennial,multi stem,"grown on small scale, harvested from wild"
+8409,"vegetables, environmental",erect,herb,perennial,"deciduous, multi stem",
+8418,cereals & pseudocereals,erect,grass,annual,,grown on large scale
+8432,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+8466,"fruits & nuts, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+8488,forage/pasture,erect,grass,perennial,,grown on large scale
+8524,"forage/pasture, fruits & nuts, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+8526,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+8532,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, environmental, weed",erect,grass,perennial,multi stem,grown on small scale
+8537,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+8552,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+8556,"vegetables, ornamentals/turf",erect,herb,annual,"single stem, multi stem","grown on small scale, harvested from wild"
+8565,"vegetables, ornamentals/turf, medicinals & aromatic, environmental",erect,herb,perennial,"deciduous, multi stem",grown on small scale
+8566,"fruits & nuts, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+8632,fruits & nuts,erect,tree,perennial,"evergreen, single stem",harvested from wild
+8647,"fruits & nuts, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+8700,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"semi evergreen, single stem, multi stem",grown on small scale
+8753,"roots/tubers, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+8785,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",harvested from wild
+8821,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+8852,"roots/tubers, materials, cover crop",erect,herb,"annual, perennial",,grown on small scale
+8882,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, weed",prostrate/procumbent/semi-erect,herb,annual,"multi stem, C4 photosynthesis",grown on small scale
+8912,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on small scale
+8917,"fruits & nuts, forest/wood",erect,tree,perennial,"evergreen, deciduous, single stem","grown on small scale, harvested from wild"
+8946,"forage/pasture, fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem, C3 photosynthesis",grown on small scale
+8951,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, deciduous, single stem, C3 photosynthesis",grown on large scale
+8953,"pulses (grain legumes), forage/pasture, materials, ornamentals/turf, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem, C3 photosynthesis",grown on small scale
+8958,"forage/pasture, vegetables, forest/wood, environmental, weed",erect,tree,perennial,"deciduous, single stem, C3 photosynthesis",
+8965,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on large scale, harvested from wild"
+8967,"fruits & nuts, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+8970,"fruits & nuts, materials, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+8983,"fruits & nuts, ornamentals/turf",erect,"shrub, tree",perennial,"single stem, multi stem",
+8992,"fruits & nuts, ornamentals/turf",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+8995,"fruits & nuts, medicinals & aromatic",prostrate/procumbent/semi-erect,shrub,perennial,"deciduous, multi stem",harvested from wild
+9018,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,single stem,harvested from wild
+9042,"vegetables, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, semi evergreen, single stem",
+9044,"forage/pasture, vegetables, medicinals & aromatic",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+9068,medicinals & aromatic,erect,herb,perennial,multi stem,harvested from wild
+9086,forest/wood,erect,tree,perennial,"deciduous, single stem",grown on large scale
+9096,"fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+9097,"forage/pasture, fruits & nuts, materials, ornamentals/turf, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+9138,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on large scale, harvested from wild"
+9168,vegetables,erect,herb,annual,single stem,grown on small scale
+9213,"fruits & nuts, ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+9228,medicinals & aromatic,erect,herb,perennial,,"grown on small scale, harvested from wild"
+9279,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",
+9282,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",grown on large scale
+9285,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,,grown on large scale
+9287,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",grown on large scale
+9290,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,,grown on large scale
+9291,"vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+9292,"forage/pasture, fruits & nuts, environmental",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+9312,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,shrub,perennial,,"grown on small scale, harvested from wild"
+9359,medicinals & aromatic,climber/scrambler/scadent,sub-shrub,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+9373,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",
+9374,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",
+9419,medicinals & aromatic,erect,sub-shrub,perennial,,harvested from wild
+9432,"forage/pasture, materials, environmental",erect,grass,perennial,multi stem,previously widely grown
+9434,"forage/pasture, materials, environmental",erect,grass,perennial,C4 photosynthesis,grown on large scale
+9441,roots/tubers,prostrate/procumbent/semi-erect,herb,perennial,single stem,
+9449,"fruits & nuts, materials, environmental",prostrate/procumbent/semi-erect,tree,perennial,evergreen,
+9450,"fruits & nuts, environmental",prostrate/procumbent/semi-erect,"shrub, tree",perennial,"evergreen, multi stem",
+9468,"forage/pasture, vegetables, materials",erect,herb,annual,,grown on large scale
+9506,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+9527,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,"deciduous, multi stem",
+9528,"forage/pasture, fruits & nuts",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+9531,"fruits & nuts, medicinals & aromatic",erect,shrub,perennial,,harvested from wild
+9536,medicinals & aromatic,erect,herb,annual,,harvested from wild
+9545,"fruits & nuts, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+9546,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+9593,"forage/pasture, fruits & nuts, vegetables, medicinals & aromatic, environmental",erect,shrub,perennial,multi stem,grown on small scale
+9621,"fruits & nuts, vegetables, materials, forest/wood",erect,tree,perennial,"semi evergreen, deciduous, single stem",
+9639,"roots/tubers, vegetables, materials, ornamentals/turf, environmental",erect,grass,perennial,multi stem,"grown on small scale, harvested from wild"
+9645,fruits & nuts,erect,tree,perennial,single stem,
+9712,"forage/pasture, materials, forest/wood, environmental, weed",erect,"herb, sub-shrub",annual,"single stem, multi stem",
+9722,"forage/pasture, vegetables, materials, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+9732,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,grown on large scale
+9747,"forage/pasture, fruits & nuts, materials, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on large scale
+9785,"fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+9786,"forage/pasture, fruits & nuts, materials, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem","grown on small scale, harvested from wild"
+9787,materials,erect,herb,annual,,grown on large scale
+9825,"vegetables, ornamentals/turf",erect,"herb, sub-shrub","annual, perennial","deciduous, multi stem",grown on small scale
+9863,fruits & nuts,erect,shrub,perennial,multi stem,
+9864,"vegetables, medicinals & aromatic, weed",erect,"herb, sub-shrub","biennial, perennial",multi stem,
+9868,"vegetables, medicinals & aromatic",erect,"herb, sub-shrub",annual,multi stem,
+9878,"vegetables, ornamentals/turf",erect,"herb, vine",perennial,"single stem, multi stem",grown on small scale
+9916,roots/tubers,erect,herb,annual,,grown on small scale
+9922,roots/tubers,"prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,annual,multi stem,grown on small scale
+9941,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,,"grown on small scale, harvested from wild"
+9942,"fruits & nuts, ornamentals/turf",erect,tree,perennial,"evergreen, deciduous",grown on small scale
+10000,"pulses (grain legumes), roots/tubers, ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,sub-shrub,perennial,"deciduous, multi stem",grown on small scale
+10015,fruits & nuts,erect,tree,perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+10030,"roots/tubers, cover crop",erect,herb,perennial,multi stem,
+10046,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,annual,,harvested from wild
+10126,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+10130,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+10135,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+10207,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+10223,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+10291,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,single stem,harvested from wild
+10307,vegetables,climber/scrambler/scadent,vine,perennial,,
+10308,fruits & nuts,climber/scrambler/scadent,vine,perennial,,
+10319,"pulses (grain legumes), forage/pasture, medicinals & aromatic, environmental",climber/scrambler/scadent,herb,perennial,multi stem,"grown on large scale, grown on small scale"
+10370,vegetables,prostrate/procumbent/semi-erect,herb,"annual, biennial",multi stem,grown on small scale
+10391,"fruits & nuts, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+10394,"fruits & nuts, environmental",erect,tree,perennial,"semi evergreen, single stem",grown on small scale
+10458,"forage/pasture, vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"semi evergreen, deciduous, single stem",harvested from wild
+10478,"vegetables, medicinals & aromatic","erect, acaulescent (or rosette plants)",herb,biennial,,"grown on small scale, harvested from wild"
+10554,medicinals & aromatic,erect,herb,annual,multi stem,grown on large scale
+10579,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,
+10581,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,grown on small scale
+10582,cereals & pseudocereals,erect,grass,annual,"single stem, C3 photosynthesis",grown on large scale
+10591,"cereals & pseudocereals, forage/pasture",erect,grass,annual,,grown on small scale
+10626,"pulses (grain legumes), roots/tubers, forage/pasture",prostrate/procumbent/semi-erect,"herb, vine",perennial,"deciduous, multi stem",harvested from wild
+10628,"vegetables, materials, medicinals & aromatic, environmental",erect,grass,perennial,"deciduous, multi stem",harvested from wild
+10631,"roots/tubers, vegetables, materials, medicinals & aromatic, environmental",erect,grass,perennial,"evergreen, deciduous, multi stem",
+10633,"forage/pasture, vegetables, materials, medicinals & aromatic, environmental",erect,grass,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+10644,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, semi evergreen, single stem",
+10679,"vegetables, materials, medicinals & aromatic","erect, prostrate/procumbent/semi-erect",herb,perennial,"deciduous, multi stem",
+10686,medicinals & aromatic,erect,herb,annual,,harvested from wild
+10687,"forage/pasture, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+10700,"fruits & nuts, medicinals & aromatic",prostrate/procumbent/semi-erect,"sub-shrub, shrub",perennial,multi stem,
+10704,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem","grown on large scale, harvested from wild"
+10711,fruits & nuts,prostrate/procumbent/semi-erect,"vine, sub-shrub",perennial,multi stem,grown on large scale
+10714,"fruits & nuts, medicinals & aromatic",erect,sub-shrub,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+10719,"fruits & nuts, medicinals & aromatic",prostrate/procumbent/semi-erect,sub-shrub,perennial,,harvested from wild
+10733,"fruits & nuts, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+10734,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+10758,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+10763,"forage/pasture, vegetables, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+10808,"pulses (grain legumes), forage/pasture",climber/scrambler/scadent,herb,annual,multi stem,
+10830,pulses (grain legumes),prostrate/procumbent/semi-erect,herb,annual,multi stem,grown on small scale
+10833,pulses (grain legumes),prostrate/procumbent/semi-erect,herb,annual,,grown on large scale
+10834,"pulses (grain legumes), forage/pasture, environmental","erect, prostrate/procumbent/semi-erect",herb,annual,multi stem,
+10835,"pulses (grain legumes), forage/pasture, vegetables",prostrate/procumbent/semi-erect,herb,annual,"single stem, C3 photosynthesis",grown on small scale
+10836,"pulses (grain legumes), roots/tubers, forage/pasture, vegetables, cover crop, environmental","prostrate/procumbent/semi-erect, climber/scrambler/scadent","herb, vine",perennial,multi stem,grown on small scale
+10862,materials,erect,tree,perennial,single stem,grown on small scale
+10874,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+10880,"fruits & nuts, ornamentals/turf, forest/wood",erect,tree,perennial,single stem,
+10895,,climber/scrambler/scadent,"herb, vine",perennial,"deciduous, single stem",
+10900,fruits & nuts,climber/scrambler/scadent,vine,perennial,"deciduous, single stem",grown on small scale
+10914,"fruits & nuts, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on small scale
+10941,vegetables,erect,herb,perennial,single stem,grown on small scale
+10967,"vegetables, ornamentals/turf, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+10981,"forage/pasture, vegetables",erect,grass,annual,single stem,grown on large scale
+10982,"cereals & pseudocereals, forage/pasture, weed",erect,grass,annual,single stem,grown on small scale
+10994,"vegetables, materials, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem",grown on small scale
+11001,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+11015,"forage/pasture, fruits & nuts, vegetables",prostrate/procumbent/semi-erect,herb,,,harvested from wild
+11029,"fruits & nuts, materials, medicinals & aromatic","erect, prostrate/procumbent/semi-erect","shrub, tree",perennial,"deciduous, single stem, multi stem",
+11291,"vegetables, materials, environmental",erect,herb,"annual, biennial",single stem,grown on small scale
+11426,pulses (grain legumes),prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+11661,"pulses (grain legumes), forage/pasture",erect,tree,perennial,single stem,"grown on small scale, harvested from wild"
+11684,"pulses (grain legumes), forage/pasture",erect,tree,perennial,single stem,grown on small scale
+11687,"pulses (grain legumes), forage/pasture",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+11689,"pulses (grain legumes), forage/pasture, environmental",erect,tree,perennial,single stem,grown on small scale
+11750,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+11752,"forage/pasture, fruits & nuts, materials, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+12183,medicinals & aromatic,acaulescent (or rosette plants),herb,perennial,,harvested from wild
+12396,"vegetables, ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,multi stem,
+12414,"fruits & nuts, medicinals & aromatic",prostrate/procumbent/semi-erect,sub-shrub,perennial,,harvested from wild
+12484,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"single stem, multi stem",
+12493,"vegetables, materials, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+12852,"vegetables, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",harvested from wild
+13007,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,,grown on small scale
+13402,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+14023,"ornamentals/turf, medicinals & aromatic",erect,herb,,,
+14060,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+14639,"fruits & nuts, ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,other,perennial,,grown on small scale
+15772,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,annual,,harvested from wild
+16098,"vegetables, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem",
+16203,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,,grown on large scale
+16595,"vegetables, ornamentals/turf",acaulescent (or rosette plants),herb,perennial,deciduous,grown on small scale
+17012,"roots/tubers, vegetables, ornamentals/turf, medicinals & aromatic",erect,grass,perennial,"deciduous, multi stem",harvested from wild
+17131,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+17152,medicinals & aromatic,climber/scrambler/scadent,vine,perennial,,harvested from wild
+17278,"forage/pasture, fruits & nuts, ornamentals/turf, medicinals & aromatic",acaulescent (or rosette plants),herb,annual,"deciduous, single stem",
+17507,"pulses (grain legumes), forage/pasture, environmental","erect, climber/scrambler/scadent",herb,annual,multi stem,
+17633,"forage/pasture, fruits & nuts, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+17643,pulses (grain legumes),prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+17644,"fruits & nuts, environmental",erect,tree,perennial,"evergreen, semi evergreen, single stem, C3 photosynthesis",
+17645,environmental,erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",grown on small scale
+17646,environmental,erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",grown on small scale
+17650,"forage/pasture, vegetables","prostrate/procumbent/semi-erect, climber/scrambler/scadent","herb, sub-shrub",perennial,"evergreen, multi stem",grown on small scale
+17651,"pulses (grain legumes), forage/pasture, vegetables, environmental","erect, prostrate/procumbent/semi-erect",herb,annual,multi stem,
+17656,vegetables,prostrate/procumbent/semi-erect,herb,,multi stem,
+17664,roots/tubers,erect,herb,perennial,,grown on small scale
+17797,"vegetables, medicinals & aromatic, weed",erect,herb,annual,"single stem, multi stem, C3 photosynthesis",harvested from wild
+17836,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+18201,"forage/pasture, vegetables, weed",prostrate/procumbent/semi-erect,herb,perennial,multi stem,
+18215,"forage/pasture, vegetables, ornamentals/turf, weed",erect,herb,perennial,"deciduous, multi stem",
+18325,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+30805,"fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+31703,"fruits & nuts, vegetables, medicinals & aromatic, environmental",erect,shrub,perennial,multi stem,grown on small scale
+32427,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+38122,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental","erect, climber/scrambler/scadent","vine, tree",perennial,"evergreen, single stem, multi stem",
+38133,"materials, medicinals & aromatic",erect,herb,"annual, perennial",multi stem,"grown on small scale, harvested from wild"
+42696,"forage/pasture, materials, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",harvested from wild
+45286,"vegetables, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+45894,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+46753,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+47139,"forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+48742,roots/tubers,prostrate/procumbent/semi-erect,herb,biennial,"deciduous, single stem",grown on large scale
+48747,"cereals & pseudocereals, forage/pasture, medicinals & aromatic",erect,grass,annual,single stem,"grown on large scale, grown on small scale"
+49181,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+49211,"ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,shrub,perennial,,grown on small scale
+49984,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+49985,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+49987,medicinals & aromatic,prostrate/procumbent/semi-erect,other,perennial,,harvested from wild
+50045,"vegetables, medicinals & aromatic",erect,herb,annual,,harvested from wild
+75000,"vegetables, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+75061,"fruits & nuts, materials, forest/wood",erect,tree,perennial,"evergreen, single stem","grown on large scale, harvested from wild"
+76733,"pulses (grain legumes), medicinals & aromatic",erect,herb,annual,,grown on small scale
+83541,"forage/pasture, vegetables, environmental",erect,herb,annual,single stem,
+127526,"fruits & nuts, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem","grown on large scale, harvested from wild"
+148253,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+148964,roots/tubers,,herb,annual,,grown on small scale
+148966,roots/tubers,climber/scrambler/scadent,"herb, vine",perennial,,grown on small scale
+148967,"roots/tubers, vegetables",erect,herb,"annual, perennial",,grown on small scale
+148974,"fruits & nuts, ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,"vine, shrub",perennial,multi stem,
+149006,"fruits & nuts, materials",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+197703,"fruits & nuts, ornamentals/turf",erect,tree,perennial,"evergreen, single stem",
+198033,fruits & nuts,erect,shrub,perennial,"deciduous, multi stem",harvested from wild
+202719,"pulses (grain legumes), environmental","prostrate/procumbent/semi-erect, climber/scrambler/scadent",herb,perennial,"deciduous, multi stem","grown on large scale, grown on small scale"
+205644,"fruits & nuts, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",
+220867,"vegetables, materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem",
+225371,"vegetables, ornamentals/turf",erect,herb,perennial,"deciduous, multi stem",
+236039,"fruits & nuts, materials, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",
+238002,"pulses (grain legumes), forage/pasture, environmental",prostrate/procumbent/semi-erect,herb,annual,multi stem,
+238663,"cereals & pseudocereals, forage/pasture, vegetables, materials, environmental",erect,grass,annual,single stem,grown on large scale
+243766,"forage/pasture, fruits & nuts, vegetables, materials, medicinals & aromatic, forest/wood, environmental","erect, climber/scrambler/scadent","vine, shrub, tree",perennial,"semi evergreen, single stem, multi stem",
+355153,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+363339,"forage/pasture, fruits & nuts, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, deciduous, single stem, multi stem",grown on small scale
+367215,"fruits & nuts, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",harvested from wild
+372231,"pulses (grain legumes), forage/pasture",erect,shrub,perennial,"single stem, multi stem",
+372262,"forage/pasture, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",grown on small scale
+400004,,erect,herb,annual,,grown on small scale
+367,"vegetables, medicinals & aromatic",erect,herb,biennial,single stem,grown on large scale
+520,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+550,materials,erect,herb,annual,single stem,
+702,"materials, medicinals & aromatic",erect,tree,perennial,,grown on large scale
+754,"vegetables, medicinals & aromatic",erect,herb,perennial,multi stem,
+828,"roots/tubers, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+841,"materials, ornamentals/turf",erect,grass,perennial,"evergreen, multi stem",grown on small scale
+984,"materials, medicinals & aromatic",erect,herb,perennial,,"grown on large scale, grown on small scale"
+1333,medicinals & aromatic,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+1448,materials,erect,herb,perennial,,grown on small scale
+1514,"fruits & nuts, materials, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, multi stem",
+1661,"vegetables, medicinals & aromatic",erect,herb,perennial,,grown on large scale
+1714,medicinals & aromatic,climber/scrambler/scadent,vine,perennial,,grown on large scale
+1763,"materials, medicinals & aromatic, environmental",erect,shrub,perennial,multi stem,grown on small scale
+2104,"forage/pasture, medicinals & aromatic",erect,herb,"annual, biennial, perennial",multi stem,grown on large scale
+2119,"ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,herb,annual,,grown on small scale
+2131,"materials, medicinals & aromatic",climber/scrambler/scadent,"herb, vine",perennial,"evergreen, single stem, multi stem",grown on small scale
+2177,medicinals & aromatic,erect,herb,"annual, perennial",multi stem,grown on large scale
+2369,medicinals & aromatic,erect,herb,perennial,multi stem,grown on large scale
+2411,vegetables,erect,"herb, shrub",perennial,multi stem,grown on small scale
+2441,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem",grown on large scale
+2462,"materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem, multi stem",grown on large scale
+2762,medicinals & aromatic,erect,herb,perennial,multi stem,grown on small scale
+2779,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+3010,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+3036,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,,grown on small scale
+3048,"materials, ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,"deciduous, single stem, multi stem",
+3054,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,grown on large scale
+3389,"materials, ornamentals/turf, medicinals & aromatic",erect,sub-shrub,perennial,multi stem,grown on small scale
+3390,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+3402,medicinals & aromatic,erect,herb,perennial,,grown on large scale
+3415,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+3585,forage/pasture,erect,herb,perennial,,grown on small scale
+3944,"ornamentals/turf, medicinals & aromatic",erect,herb,,,"grown on small scale, harvested from wild"
+3989,"materials, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+4006,"materials, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+4040,"ornamentals/turf, medicinals & aromatic",erect,herb,"annual, biennial",,grown on large scale
+4061,medicinals & aromatic,prostrate/procumbent/semi-erect,sub-shrub,perennial,,harvested from wild
+4177,fruits & nuts,erect,herb,annual,multi stem,
+4178,vegetables,erect,herb,annual,single stem,
+4183,vegetables,erect,herb,perennial,,grown on small scale
+4531,"materials, medicinals & aromatic","erect, prostrate/procumbent/semi-erect",herb,"annual, biennial",,"grown on small scale, harvested from wild"
+4567,medicinals & aromatic,erect,tree,perennial,"evergreen, single stem",
+4568,"materials, medicinals & aromatic",erect,tree,perennial,,"grown on large scale, grown on small scale"
+4570,medicinals & aromatic,erect,tree,perennial,"evergreen, single stem",
+4700,"materials, medicinals & aromatic",erect,herb,annual,,grown on large scale
+4962,"materials, medicinals & aromatic",erect,herb,perennial,,grown on large scale
+5043,"materials, medicinals & aromatic",erect,herb,annual,,grown on large scale
+6095,medicinals & aromatic,erect,herb,annual,,harvested from wild
+6404,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+6467,"roots/tubers, forage/pasture, materials, medicinals & aromatic",erect,"herb, sub-shrub",perennial,,grown on small scale
+6468,medicinals & aromatic,erect,herb,perennial,"single stem, C3 photosynthesis",grown on small scale
+6852,"ornamentals/turf, medicinals & aromatic",erect,sub-shrub,perennial,multi stem,"grown on small scale, harvested from wild"
+6860,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,,"grown on small scale, harvested from wild"
+7172,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,"sub-shrub, shrub",perennial,,grown on large scale
+7258,"forage/pasture, materials",erect,"herb, sub-shrub","annual, perennial",multi stem,grown on small scale
+7338,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+7542,"materials, ornamentals/turf",erect,herb,"annual, perennial",multi stem,grown on small scale
+7707,"materials, medicinals & aromatic",,herb,perennial,,grown on small scale
+7745,"materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",
+7846,"materials, medicinals & aromatic",erect,"shrub, tree",perennial,"single stem, multi stem",
+7895,"materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+7896,environmental,erect,tree,perennial,"evergreen, single stem",
+7900,medicinals & aromatic,erect,shrub,perennial,,grown on small scale
+7987,medicinals & aromatic,,herb,annual,,
+8037,medicinals & aromatic,erect,"herb, sub-shrub",annual,"deciduous, single stem",grown on small scale
+8120,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,grown on large scale
+8174,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+8403,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,multi stem,grown on small scale
+8452,"vegetables, materials, ornamentals/turf, medicinals & aromatic, weed",erect,herb,annual,single stem,grown on small scale
+8594,"materials, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, single stem",
+8595,"materials, medicinals & aromatic",erect,herb,annual,,grown on large scale
+8596,medicinals & aromatic,erect,herb,annual,,harvested from wild
+8642,medicinals & aromatic,prostrate/procumbent/semi-erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",harvested from wild
+8674,"vegetables, medicinals & aromatic",climber/scrambler/scadent,"vine, sub-shrub",perennial,multi stem,"grown on small scale, harvested from wild"
+8690,"ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, multi stem","grown on small scale, harvested from wild"
+8853,medicinals & aromatic,erect,herb,perennial,,"grown on small scale, harvested from wild"
+8944,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+9185,"vegetables, environmental",,herb,perennial,,
+9297,"ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on small scale
+9326,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on large scale
+9398,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+9421,"vegetables, materials, ornamentals/turf",erect,sub-shrub,perennial,multi stem,grown on small scale
+9516,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,"biennial, perennial",,grown on large scale
+9535,"forage/pasture, vegetables",erect,herb,perennial,multi stem,
+9582,medicinals & aromatic,erect,herb,annual,,"grown on large scale, grown on small scale"
+9584,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,multi stem,
+9856,"vegetables, medicinals & aromatic",erect,"herb, sub-shrub",perennial,multi stem,
+10081,"materials, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+10084,"materials, medicinals & aromatic",erect,"herb, sub-shrub",perennial,"deciduous, multi stem",grown on small scale
+10284,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+10373,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+10379,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+10386,"fruits & nuts, materials",,herb,,,harvested from wild
+10432,medicinals & aromatic,"erect, prostrate/procumbent/semi-erect",shrub,perennial,,harvested from wild
+10473,"materials, medicinals & aromatic",erect,herb,annual,multi stem,grown on small scale
+11281,"ornamentals/turf, medicinals & aromatic",erect,herb,"annual, biennial",,grown on small scale
+12347,medicinals & aromatic,erect,herb,perennial,"single stem, multi stem",
+13746,"materials, ornamentals/turf, medicinals & aromatic",erect,herb,biennial,,"grown on small scale, harvested from wild"
+18352,"ornamentals/turf, medicinals & aromatic",erect,sub-shrub,perennial,multi stem,grown on small scale
+49189,medicinals & aromatic,erect,herb,,,harvested from wild
+49212,medicinals & aromatic,erect,herb,annual,,harvested from wild
+50047,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+50472,medicinals & aromatic,erect,sub-shrub,perennial,,harvested from wild
+248815,"forage/pasture, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+291,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,"herb, sub-shrub","annual, biennial, perennial","deciduous, multi stem",
+297,"materials, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,single stem,grown on small scale
+349,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on large scale
+379,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on small scale
+634,"materials, medicinals & aromatic",erect,"herb, shrub",perennial,"evergreen, deciduous, multi stem",
+646,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,"evergreen, single stem, C3 photosynthesis",grown on small scale
+652,"ornamentals/turf, medicinals & aromatic",erect,"herb, sub-shrub","annual, perennial",multi stem,"grown on large scale, grown on small scale"
+656,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+697,"materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",
+699,"materials, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+801,"forage/pasture, materials, medicinals & aromatic, cover crop, environmental",erect,herb,annual,multi stem,grown on large scale
+848,"forage/pasture, medicinals & aromatic",prostrate/procumbent/semi-erect,grass,perennial,multi stem,grown on large scale
+870,medicinals & aromatic,erect,herb,annual,,"grown on small scale, harvested from wild"
+880,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",
+952,"forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+1012,"ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"evergreen, deciduous, single stem",
+1017,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on large scale
+1023,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on small scale
+1104,"forage/pasture, materials, medicinals & aromatic, forest/wood, cover crop, environmental",erect,shrub,perennial,multi stem,"grown on large scale, grown on small scale"
+1146,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",grown on small scale
+1191,"materials, ornamentals/turf",erect,herb,annual,"single stem, C3 photosynthesis",grown on large scale
+1205,"fruits & nuts, materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+1263,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+1297,"materials, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+1334,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+1430,"materials, ornamentals/turf, forest/wood, environmental, weed",erect,tree,perennial,single stem,
+1431,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,single stem,
+1433,"ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+1524,"forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+1531,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+1710,medicinals & aromatic,climber/scrambler/scadent,vine,perennial,"evergreen, multi stem",grown on small scale
+1713,medicinals & aromatic,erect,shrub,perennial,multi stem,grown on small scale
+1732,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,,"grown on small scale, harvested from wild"
+1733,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,,grown on small scale
+1781,,,,,,
+1848,"materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+1849,"forest/wood, environmental",erect,tree,perennial,"evergreen, single stem, C3 photosynthesis","grown on small scale, harvested from wild"
+2023,"materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, semi evergreen, deciduous, single stem",
+2052,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+2054,"ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on large scale
+2059,"materials, ornamentals/turf, cover crop, environmental",erect,"herb, sub-shrub",perennial,multi stem,grown on small scale
+2078,"ornamentals/turf, medicinals & aromatic",erect,tree,perennial,,grown on small scale
+2087,medicinals & aromatic,erect,shrub,perennial,,harvested from wild
+2368,"materials, medicinals & aromatic",erect,"herb, sub-shrub","annual, perennial",,"grown on large scale, grown on small scale"
+2412,medicinals & aromatic,erect,sub-shrub,perennial,,grown on large scale
+2526,"forage/pasture, materials, medicinals & aromatic, cover crop, environmental, weed","erect, prostrate/procumbent/semi-erect",herb,"annual, biennial",multi stem,grown on small scale
+2550,"medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+2582,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental","erect, climber/scrambler/scadent","vine, shrub",perennial,multi stem,harvested from wild
+2593,"forage/pasture, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+2639,"forage/pasture, materials, medicinals & aromatic, environmental","erect, prostrate/procumbent/semi-erect","shrub, tree",perennial,"single stem, multi stem",harvested from wild
+2667,forage/pasture,erect,tree,perennial,single stem,"grown on large scale, grown on small scale, harvested from wild"
+2737,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+2744,"medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem","grown on small scale, harvested from wild"
+2761,medicinals & aromatic,erect,herb,,,harvested from wild
+2763,medicinals & aromatic,erect,herb,perennial,,
+2777,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,"grown on small scale, harvested from wild"
+2823,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+2829,medicinals & aromatic,erect,herb,perennial,"deciduous, multi stem",grown on small scale
+2877,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",harvested from wild
+2914,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+2943,"ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",grown on small scale
+2944,"forage/pasture, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+3021,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,,harvested from wild
+3031,"ornamentals/turf, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+3032,"ornamentals/turf, medicinals & aromatic",acaulescent (or rosette plants),herb,perennial,"evergreen, single stem",grown on small scale
+3039,medicinals & aromatic,erect,herb,perennial,evergreen,
+3066,medicinals & aromatic,erect,herb,perennial,,
+3187,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+3217,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+3254,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,grown on large scale
+3259,"medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+3260,medicinals & aromatic,erect,tree,perennial,single stem,
+3265,,,herb,annual,,
+3270,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+3302,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,,"grown on small scale, harvested from wild"
+3304,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem","grown on small scale, harvested from wild"
+3385,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,single stem,harvested from wild
+3391,medicinals & aromatic,erect,herb,perennial,multi stem,
+3392,"medicinals & aromatic, environmental",erect,herb,"annual, biennial",multi stem,grown on small scale
+3466,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,grown on small scale
+3487,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+3504,materials,erect,shrub,perennial,multi stem,
+3558,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+3581,"forage/pasture, materials, medicinals & aromatic",erect,tree,perennial,"evergreen, single stem",grown on large scale
+3635,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+3670,"materials, ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,multi stem,grown on small scale
+3742,medicinals & aromatic,erect,shrub,perennial,,"grown on small scale, harvested from wild"
+3750,medicinals & aromatic,erect,herb,perennial,single stem,grown on small scale
+3783,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+3837,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",
+3986,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+4004,"materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+4023,materials,erect,grass,perennial,"evergreen, multi stem",
+4033,"medicinals & aromatic, forest/wood",climber/scrambler/scadent,"vine, shrub",perennial,"evergreen, multi stem",
+4074,"forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,evergreen,
+4076,forest/wood,erect,tree,perennial,"evergreen, single stem",
+4079,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"single stem, multi stem",
+4127,materials,erect,herb,annual,single stem,grown on large scale
+4164,medicinals & aromatic,erect,herb,"annual, biennial",,harvested from wild
+4198,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+4238,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,,grown on large scale
+4280,medicinals & aromatic,erect,shrub,perennial,,"grown on large scale, grown on small scale"
+4349,,erect,tree,perennial,,
+4400,"vegetables, medicinals & aromatic",erect,herb,perennial,,harvested from wild
+4434,forest/wood,erect,tree,perennial,"evergreen, single stem",
+4479,medicinals & aromatic,erect,herb,"biennial, perennial",,"grown on small scale, harvested from wild"
+4480,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+4510,"medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+4548,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, deciduous, single stem",
+4563,"medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+4565,"materials, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, single stem",
+4676,"ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,sub-shrub,perennial,,"grown on small scale, harvested from wild"
+4730,"materials, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",
+4759,"materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+4780,"forage/pasture, medicinals & aromatic","erect, climber/scrambler/scadent",shrub,perennial,single stem,
+4782,"medicinals & aromatic, forest/wood, environmental","erect, prostrate/procumbent/semi-erect","shrub, tree",perennial,"single stem, multi stem",
+4815,medicinals & aromatic,erect,herb,biennial,,harvested from wild
+4816,"materials, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+4824,"materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on large scale, grown on small scale"
+4825,medicinals & aromatic,climber/scrambler/scadent,herb,perennial,,harvested from wild
+5050,"medicinals & aromatic, forest/wood",erect,tree,perennial,,grown on small scale
+5071,medicinals & aromatic,"prostrate/procumbent/semi-erect, climber/scrambler/scadent",other,annual,,harvested from wild
+5147,medicinals & aromatic,erect,herb,biennial,,harvested from wild
+5199,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+5250,"forage/pasture, materials, ornamentals/turf, forest/wood, weed",erect,tree,perennial,"evergreen, deciduous, single stem",grown on small scale
+5320,medicinals & aromatic,erect,herb,biennial,,grown on small scale
+5321,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+5322,"ornamentals/turf, medicinals & aromatic",erect,herb,biennial,,"grown on small scale, harvested from wild"
+5374,roots/tubers,climber/scrambler/scadent,vine,perennial,multi stem,grown on small scale
+5498,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+5499,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+5500,forest/wood,erect,tree,perennial,single stem,
+5502,forest/wood,erect,tree,perennial,single stem,
+5523,"forage/pasture, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+5554,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+5571,"medicinals & aromatic, weed",erect,tree,perennial,single stem,
+5591,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,annual,,grown on small scale
+5701,"forage/pasture, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+5738,"forage/pasture, medicinals & aromatic, environmental",erect,grass,"annual, perennial",multi stem,
+5803,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+5842,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+5861,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+5996,"medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+6029,medicinals & aromatic,erect,herb,biennial,,harvested from wild
+6077,"medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+6113,"materials, medicinals & aromatic",climber/scrambler/scadent,vine,perennial,,harvested from wild
+6266,"forage/pasture, materials, medicinals & aromatic, forest/wood",erect,shrub,perennial,multi stem,"grown on small scale, harvested from wild"
+6271,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem","grown on large scale, harvested from wild"
+6304,"forage/pasture, medicinals & aromatic",erect,herb,,,harvested from wild
+6416,medicinals & aromatic,erect,herb,"annual, biennial",,"grown on small scale, harvested from wild"
+6493,"forage/pasture, materials, medicinals & aromatic",erect,shrub,"biennial, perennial",multi stem,grown on small scale
+6558,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+6559,"ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+6597,"ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+6615,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,
+6623,"medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+6625,"ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,sub-shrub,perennial,,grown on large scale
+6718,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+6784,medicinals & aromatic,erect,tree,perennial,"evergreen, single stem",
+6820,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,"annual, biennial",,"grown on small scale, harvested from wild"
+6831,medicinals & aromatic,erect,herb,annual,,"grown on large scale, grown on small scale, harvested from wild"
+6869,medicinals & aromatic,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+6882,"materials, medicinals & aromatic, cover crop, environmental",erect,"herb, shrub",perennial,multi stem,grown on small scale
+6952,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+6983,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+7032,"medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+7033,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+7037,"materials, medicinals & aromatic, forest/wood, environmental, weed",erect,shrub,perennial,"evergreen, multi stem",grown on small scale
+7058,"materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, deciduous",
+7089,vegetables,erect,herb,biennial,,harvested from wild
+7098,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+7149,"medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+7174,"materials, ornamentals/turf",erect,shrub,perennial,"evergreen, multi stem",grown on small scale
+7175,"ornamentals/turf, medicinals & aromatic",erect,"herb, shrub",perennial,,grown on small scale
+7177,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,"evergreen, multi stem",grown on small scale
+7302,"ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,,grown on small scale
+7304,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+7336,"materials, medicinals & aromatic",erect,herb,"annual, biennial, perennial",,grown on large scale
+7343,"forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+7383,"ornamentals/turf, medicinals & aromatic",erect,herb,annual,,grown on small scale
+7410,"forage/pasture, medicinals & aromatic","erect, prostrate/procumbent/semi-erect",herb,perennial,multi stem,grown on small scale
+7533,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+7548,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+7563,medicinals & aromatic,erect,herb,perennial,,"grown on small scale, harvested from wild"
+7670,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,"shrub, tree",perennial,"single stem, multi stem",
+7681,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+7682,"forage/pasture, ornamentals/turf, medicinals & aromatic, forest/wood, environmental, weed",erect,tree,perennial,"deciduous, single stem",grown on small scale
+7691,"forage/pasture, medicinals & aromatic",erect,herb,"annual, biennial",,"grown on small scale, harvested from wild"
+7704,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+7770,"medicinals & aromatic, cover crop, environmental, weed",erect,shrub,perennial,multi stem,
+7898,medicinals & aromatic,erect,shrub,perennial,"evergreen, multi stem",
+8047,"ornamentals/turf, medicinals & aromatic",erect,herb,biennial,,grown on small scale
+8059,"forage/pasture, forest/wood",erect,"shrub, tree",perennial,"single stem, multi stem",
+8156,medicinals & aromatic,erect,other,perennial,,harvested from wild
+8227,medicinals & aromatic,erect,herb,perennial,,grown on large scale
+8230,medicinals & aromatic,erect,herb,perennial,,grown on large scale
+8292,"materials, medicinals & aromatic",,herb,perennial,,
+8390,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+8410,"materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,deciduous,
+8473,"medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,grown on small scale
+8571,"materials, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",grown on large scale
+8588,forage/pasture,erect,shrub,,,"grown on small scale, harvested from wild"
+8658,"medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",grown on large scale
+8709,materials,erect,tree,perennial,evergreen,harvested from wild
+8737,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,,harvested from wild
+8738,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,annual,,grown on small scale
+8739,medicinals & aromatic,erect,herb,annual,,grown on small scale
+8744,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on large scale
+8815,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,"grown on small scale, harvested from wild"
+8819,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,annual,,harvested from wild
+8866,"forage/pasture, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+8894,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+8933,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+8947,"forage/pasture, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem, C3 photosynthesis",grown on small scale
+8980,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,shrub,perennial,,grown on small scale
+9041,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+9043,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem",
+9049,"materials, medicinals & aromatic",erect,tree,perennial,"deciduous, single stem",
+9149,"ornamentals/turf, medicinals & aromatic",climber/scrambler/scadent,vine,perennial,,"grown on small scale, harvested from wild"
+9344,medicinals & aromatic,climber/scrambler/scadent,herb,perennial,,"grown on small scale, previously widely grown"
+9537,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+9551,medicinals & aromatic,prostrate/procumbent/semi-erect,sub-shrub,perennial,,harvested from wild
+9559,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+9691,medicinals & aromatic,erect,herb,annual,,harvested from wild
+9702,"ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",grown on small scale
+9784,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,annual,,grown on large scale
+9797,medicinals & aromatic,erect,herb,annual,,harvested from wild
+9804,medicinals & aromatic,climber/scrambler/scadent,sub-shrub,perennial,,harvested from wild
+9848,medicinals & aromatic,climber/scrambler/scadent,sub-shrub,perennial,,harvested from wild
+9979,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",
+9984,medicinals & aromatic,erect,shrub,perennial,"evergreen, multi stem","grown on small scale, harvested from wild"
+10032,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+10144,"forage/pasture, medicinals & aromatic",erect,"herb, sub-shrub",perennial,multi stem,
+10278,medicinals & aromatic,"erect, prostrate/procumbent/semi-erect",shrub,perennial,,"grown on small scale, harvested from wild"
+10299,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem, multi stem",grown on large scale
+10321,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+10327,"materials, medicinals & aromatic, environmental",erect,tree,perennial,"deciduous, single stem",
+10446,"medicinals & aromatic, forest/wood",erect,tree,perennial,"deciduous, single stem",grown on small scale
+10449,"medicinals & aromatic, forest/wood",erect,tree,perennial,,"grown on large scale, harvested from wild"
+10525,"forage/pasture, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,"annual, biennial",multi stem,"grown on large scale, harvested from wild"
+10624,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+10655,"medicinals & aromatic, forest/wood",erect,tree,perennial,,"grown on small scale, harvested from wild, previously widely grown"
+10663,"materials, medicinals & aromatic",climber/scrambler/scadent,"vine, shrub",perennial,multi stem,grown on small scale
+10741,forest/wood,erect,tree,perennial,"evergreen, single stem",
+10746,"forage/pasture, materials, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",harvested from wild
+10747,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+10753,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,"annual, biennial",,grown on small scale
+10841,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+10850,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,perennial,,harvested from wild
+10853,medicinals & aromatic,"erect, acaulescent (or rosette plants)",herb,"annual, perennial",,harvested from wild
+10860,medicinals & aromatic,prostrate/procumbent/semi-erect,shrub,perennial,,"grown on small scale, harvested from wild"
+10870,medicinals & aromatic,erect,"shrub, tree",perennial,"deciduous, single stem",
+10884,"ornamentals/turf, medicinals & aromatic",erect,"shrub, tree",perennial,,grown on small scale
+10885,"forage/pasture, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+10920,medicinals & aromatic,erect,shrub,perennial,multi stem,grown on small scale
+10954,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, semi evergreen, single stem, C3 photosynthesis","grown on small scale, harvested from wild"
+10955,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, semi evergreen, single stem, C3 photosynthesis",
+10956,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, semi evergreen, deciduous, single stem","grown on small scale, harvested from wild"
+11059,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,
+11324,medicinals & aromatic,erect,shrub,perennial,,"grown on small scale, harvested from wild"
+11641,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem","grown on small scale, harvested from wild"
+11776,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",grown on small scale
+11848,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",harvested from wild
+12184,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem","grown on small scale, harvested from wild"
+12200,"ornamentals/turf, medicinals & aromatic, weed","erect, prostrate/procumbent/semi-erect",herb,perennial,multi stem,harvested from wild
+12320,"ornamentals/turf, medicinals & aromatic",erect,herb,annual,,grown on small scale
+12381,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+12393,"materials, medicinals & aromatic","erect, prostrate/procumbent/semi-erect",herb,perennial,"deciduous, single stem, multi stem",
+12445,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+12500,,,,,,
+13538,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+13775,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+14047,medicinals & aromatic,erect,"shrub, tree",perennial,"single stem, multi stem",grown on small scale
+14054,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,,"grown on large scale, harvested from wild"
+14068,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+15430,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+15579,"ornamentals/turf, medicinals & aromatic",erect,shrub,perennial,,grown on small scale
+15774,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+15820,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"semi evergreen, single stem, multi stem",
+15851,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,"deciduous, multi stem",harvested from wild
+16100,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,biennial,"deciduous, single stem",
+16152,medicinals & aromatic,erect,herb,,,harvested from wild
+16538,"ornamentals/turf, medicinals & aromatic",erect,tree,perennial,,"grown on large scale, harvested from wild"
+16717,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,"grown on small scale, harvested from wild"
+16985,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+17162,"materials, forest/wood",erect,tree,perennial,"deciduous, single stem",
+17405,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on large scale, grown on small scale"
+17435,medicinals & aromatic,erect,herb,biennial,,harvested from wild
+17657,"medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+17660,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+17895,medicinals & aromatic,climber/scrambler/scadent,herb,perennial,,harvested from wild
+18072,medicinals & aromatic,erect,herb,annual,,harvested from wild
+28399,"forage/pasture, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",
+30919,medicinals & aromatic,prostrate/procumbent/semi-erect,other,annual,,harvested from wild
+33121,"medicinals & aromatic, environmental, weed",erect,shrub,perennial,multi stem,harvested from wild
+38279,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+42707,"materials, ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, semi evergreen, deciduous, single stem",
+42760,"materials, ornamentals/turf, medicinals & aromatic",erect,tree,perennial,"semi evergreen, deciduous, single stem",
+44088,"forage/pasture, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+45195,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, semi evergreen, single stem",
+45598,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"semi evergreen, deciduous, single stem",
+47120,"forage/pasture, materials, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+49188,medicinals & aromatic,erect,"herb, sub-shrub","biennial, perennial",,"grown on small scale, harvested from wild"
+49210,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+49976,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+49977,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+49978,medicinals & aromatic,erect,herb,perennial,,"grown on small scale, harvested from wild"
+49979,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+49980,medicinals & aromatic,erect,herb,perennial,,"harvested from wild, previously widely grown"
+49981,medicinals & aromatic,prostrate/procumbent/semi-erect,shrub,perennial,,harvested from wild
+49982,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,"grown on small scale, harvested from wild"
+49986,medicinals & aromatic,climber/scrambler/scadent,grass,perennial,,harvested from wild
+49988,medicinals & aromatic,"erect, prostrate/procumbent/semi-erect",herb,perennial,,harvested from wild
+50038,"materials, medicinals & aromatic",erect,shrub,perennial,,harvested from wild
+50039,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,"shrub, tree",perennial,,harvested from wild
+50040,medicinals & aromatic,prostrate/procumbent/semi-erect,herb,perennial,,harvested from wild
+50041,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+50042,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+50043,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,,grown on small scale
+50044,medicinals & aromatic,erect,herb,perennial,,"grown on small scale, harvested from wild"
+50048,medicinals & aromatic,erect,herb,perennial,multi stem,harvested from wild
+50471,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,,grown on small scale
+74962,"forage/pasture, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,"annual, perennial","deciduous, multi stem",
+74983,medicinals & aromatic,erect,herb,perennial,,grown on small scale
+75002,medicinals & aromatic,erect,herb,perennial,,harvested from wild
+77301,"materials, medicinals & aromatic, environmental",erect,"shrub, tree",perennial,"deciduous, single stem, multi stem",
+77795,ornamentals/turf,erect,"shrub, tree",perennial,"evergreen, single stem, multi stem",
+83552,"medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+127113,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,single stem,
+148275,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,grown on small scale
+197937,"forage/pasture, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,"shrub, tree",perennial,"single stem, multi stem",
+198891,"ornamentals/turf, medicinals & aromatic",prostrate/procumbent/semi-erect,herb,perennial,"deciduous, multi stem",grown on small scale
+199708,"materials, ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"evergreen, multi stem",
+199890,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,"deciduous, multi stem",
+218100,"ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,single stem,
+230348,"ornamentals/turf, medicinals & aromatic",erect,herb,perennial,multi stem,grown on small scale
+238780,medicinals & aromatic,erect,tree,perennial,"deciduous, single stem",
+248814,"materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+248817,"ornamentals/turf, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+305323,"forage/pasture, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+305324,"medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+305325,"ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"evergreen, single stem",
+355150,"materials, medicinals & aromatic, forest/wood",erect,tree,perennial,"evergreen, single stem",
+355151,"forage/pasture, materials, medicinals & aromatic, forest/wood, cover crop, environmental",erect,tree,perennial,"evergreen, single stem",
+355154,"forage/pasture, materials, ornamentals/turf, medicinals & aromatic, forest/wood, environmental",erect,tree,perennial,"deciduous, single stem",
+355155,"materials, ornamentals/turf, medicinals & aromatic, environmental",erect,tree,perennial,"evergreen, deciduous, single stem",
+372263,"forage/pasture, medicinals & aromatic, cover crop, environmental",prostrate/procumbent/semi-erect,herb,perennial,multi stem,"grown on large scale, grown on small scale"
